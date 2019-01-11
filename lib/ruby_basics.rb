@@ -22,7 +22,7 @@ end
 
 def last_evaluated_value(a = "expert")
 
-  puts "#{expert}"
+  puts "#{a}"
 
 end
 
