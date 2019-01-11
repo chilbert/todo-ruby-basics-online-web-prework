@@ -13,7 +13,7 @@ end
 def argue(a)
 
   return a
-  
+
 
 end
 
