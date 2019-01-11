@@ -10,7 +10,10 @@ def assign_variable(value)
 
 end
 
-def argue
+def argue(a)
+
+  return a
+  
 
 end
 
