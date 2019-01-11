@@ -17,7 +17,9 @@ def argue(a)
 
 end
 
-def greeting
+def greeting(greeting, name)
+
+  
 
 end
 
